@@ -13,7 +13,7 @@ O projeto integra **aplicação mobile**, **API REST**, **banco de dados** e
 ## 📱 Aplicação Mobile
 
 ### Versão Android
-<img src="qrcode.png" alt="QR Code" width="200" height="200">
+[<img src="qrcode.png" alt="QR Code" width="200" height="200">](https://github.com/LuiE13/PetCareSolutions/blob/main/README.md#)
 
 🔗 [Instalar aplicação Android](https://expo.dev/accounts/luie/projects/petCareSolutions/builds/c2a0f35e-525d-4f48-adac-5757e8caf33f)
 
