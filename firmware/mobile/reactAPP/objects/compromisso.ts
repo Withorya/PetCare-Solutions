@@ -1,5 +1,0 @@
-class compromisso{
-
-}
-
-export {compromisso}
