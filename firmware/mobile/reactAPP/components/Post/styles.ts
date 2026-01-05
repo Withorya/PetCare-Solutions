@@ -1,0 +1,30 @@
+import { StyleSheet } from "react-native";
+export const styles = StyleSheet.create({
+    tela:{
+        width:"100%",
+        height:'30%',
+        padding:20
+    },
+    user:{
+        height:"20%",
+        flexDirection:"row",
+        gap:10,
+        alignItems:'center'
+    },
+    userFoto:{
+        height:40,
+        width:40
+    },
+    userNome:{
+        fontWeight:"500",
+        color:"#5a5a5aff",
+        fontSize:22
+    },
+    conteudo:{
+        height:"70%"
+    },
+    numeros:{
+        height:"10%",
+        flexDirection:"row"
+    }
+})

@@ -1,0 +1,5 @@
+class compromisso{
+
+}
+
+export {compromisso}
