@@ -15,11 +15,6 @@ O projeto integra **aplicação mobile**, **API REST**, **banco de dados** e
 ### Versão Android
 ## 📱 Aplicação Android
 
-<p align="center">
-  <img src="qrcode.png" alt="QR Code para instalação do app" width="200">
-</p>
-
-
 🔗 [Instalar aplicação Android](https://expo.dev/accounts/luie/projects/petCareSolutions/builds/c2a0f35e-525d-4f48-adac-5757e8caf33f)
 
 ### Versão iOS
