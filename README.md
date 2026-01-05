@@ -25,19 +25,19 @@ O projeto integra **aplicação mobile**, **API REST**, **banco de dados** e
 ## 👥 Equipe do Projeto
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
-  [Anna Júlia do Prado](https://github.com/jujobs)** — Design e desenvolvimento Front-end
+  [Anna Júlia do Prado](https://github.com/jujobs) — Design e desenvolvimento Front-end
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
-  [Bia](https://github.com/BiaOlivMar)** — Design e desenvolvimento Front-end
+  [Bia](https://github.com/BiaOlivMar) — Design e desenvolvimento Front-end
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
-  [Carolina Valença](https://github.com/carolaxt)** — Design e gestão do projeto
+  [Carolina Valença](https://github.com/carolaxt) — Design e gestão do projeto
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
-  [LuiE13](https://github.com/LuiE13)** — Desenvolvimento Mobile e Back-end
+  [LuiE13](https://github.com/LuiE13) — Desenvolvimento Mobile e Back-end
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
-  [Withorya](https://github.com/Withorya)** — Co-gestão do projeto e desenvolvimento IoT
+  [Withorya](https://github.com/Withorya) — Co-gestão do projeto e desenvolvimento IoT
 
 ---
 
